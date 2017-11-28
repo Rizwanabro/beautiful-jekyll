@@ -19,6 +19,8 @@ title: Data Analytics
 # Short description of your site
 description: A virtual proof that name is awesome!
 
+google_analytics: 'UA-110330345-1'
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
